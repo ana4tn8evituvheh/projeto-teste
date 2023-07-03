@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.paddingbotoes{
+    margin-bottom: 5vh !important;
+}
+
+.textobotoes{
+    color:aliceblue;
+    font-family: 'Marvel', sans-serif;
+    word-spacing: 0.1vw;
+    font-size: 5vh;
+}
+
+.textodescbotoes{
+    color:aliceblue;
+    font-family: 'Marvel', sans-serif;
+    word-spacing: 0.1vw;
+    font-size: 4vh;
+}

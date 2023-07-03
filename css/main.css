@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0
+    }
+
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+    background-color: #333333;
+}
+
+.titulo{
+    font-family: 'Marvel', sans-serif;
+    font-weight: 700;
+    font-size: 10vh;
+    color: aliceblue;
+}
+
+.borderradius{
+    border-radius:15%;
+    width: 38vw;
+}
+
+.logindosite{
+    vertical-align: center;
+}
+
+.paddingbotao{
+    margin-top: 5vh !important;
+}
